@@ -12,7 +12,7 @@ Translate back-and-forth between abbreviations.
 \tabular{ll}{
 Package: \tab abbReviations\cr
 Type: \tab Package\cr
-Version: \tab 0.1-1\cr
+Version: \tab 0.1-2\cr
 Date: \tab 2012-04-29\cr
 License: \tab Artistic-2.0\cr
 }

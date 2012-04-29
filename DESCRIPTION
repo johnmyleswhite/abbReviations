@@ -1,7 +1,7 @@
 Package: abbReviations
 Type: Package
 Title: Translates back-and-forth from common abbreviations.
-Version: 0.1-1
+Version: 0.1-2
 Date: 2012-04-29
 Author: John Myles White
 Maintainer: John Myles White <jmw@johnmyleswhite.com>
