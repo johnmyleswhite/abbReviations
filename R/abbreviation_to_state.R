@@ -1,5 +1,13 @@
 abbreviation_to_state <- function(abbreviation)
 {
   data(mapping)
-  return(with(subset(mapping, Abbreviation == abbreviation), ifelse(length(State) > 0, State, NA)))
+  state <- with(subset(mapping, Abbreviation == abbreviation), State)
+  if (length(state) > 0)
+  {
+    return(state)
+  }
+  else
+  {
+    return(NA)
+  }
 }
